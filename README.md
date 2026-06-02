@@ -8,9 +8,9 @@ I work mainly with Java, Spring Boot, PostgreSQL, Keycloak/OAuth2, Docker, React
 
 ### Multiapp - Multi-tenant Ticketing & Appointment SaaS
 
-Live demo: [https://multiapp-demo-jz.astoninfer.workers.dev](https://multiapp-demo-jz.astoninfer.workers.dev)
-Backend repository: [https://github.com/jastoninfer/multiapp-backend](https://github.com/jastoninfer/multiapp-backend)
-Frontend repository: [https://github.com/jastoninfer/multiapp-frontend](https://github.com/jastoninfer/multiapp-frontend)
+- Live demo: [https://multiapp-demo-jz.astoninfer.workers.dev](https://multiapp-demo-jz.astoninfer.workers.dev)
+- Backend repository: [https://github.com/jastoninfer/multiapp-backend](https://github.com/jastoninfer/multiapp-backend)
+- Frontend repository: [https://github.com/jastoninfer/multiapp-frontend](https://github.com/jastoninfer/multiapp-frontend)
 
 Multiapp is a deployed SaaS demo for IT service workflows. It supports ticket management, appointment scheduling, resource availability, tenant/member administration, external contacts, audit logs, and user profile workflows.
 
