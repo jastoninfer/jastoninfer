@@ -11,7 +11,8 @@ I work mainly with Java, Spring Boot, PostgreSQL, Keycloak/OAuth2, Docker, React
 [![Backend CI/CD](https://github.com/jastoninfer/multiapp-backend/actions/workflows/backend-ci-cd.yml/badge.svg)](https://github.com/jastoninfer/multiapp-backend/actions/workflows/backend-ci-cd.yml)
 [![Frontend CI/CD](https://github.com/jastoninfer/multiapp-frontend/actions/workflows/frontend-ci-cd.yml/badge.svg)](https://github.com/jastoninfer/multiapp-frontend/actions/workflows/frontend-ci-cd.yml)
 
-- Live demo: [https://multiapp-frontend.pages.dev](https://multiapp-frontend.pages.dev)
+- Live demo: [https://multiapp-frontend.pages.dev/demo](https://multiapp-frontend.pages.dev/demo)
+- Walkthrough video: [90-second Multiapp demo]()
 - Backend repository: [https://github.com/jastoninfer/multiapp-backend](https://github.com/jastoninfer/multiapp-backend)
 - Frontend repository: [https://github.com/jastoninfer/multiapp-frontend](https://github.com/jastoninfer/multiapp-frontend)
 
